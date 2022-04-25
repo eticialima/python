@@ -1,21 +1,18 @@
-# Estudos Python Cursos 
+# Python Studies Courses
 
-## Este projeto foi feito com:
+## This project was made with:
 
 * [Python 3.10.2](https://www.python.org/) 
 
-## Como rodar o projeto?
-
-* Crie um virtualenv com Python 3.
-* Ative o virtualenv. 
+## how to run the project?
 
 ``` 
-python -m venv .venv
-source .venv/bin/activate 
-python "nome do arquivo .py"
+* Create a virtualenv with Python 3.
+* Activate virtualenv.
+* execute python "name file .py"
 ```
  
-### Obrigada ❤️
+### Thanks ❤️
 [@eticialima](https://www.instagram.com/eticialima)
 
 ### buymeacoffee buymeacoffee
